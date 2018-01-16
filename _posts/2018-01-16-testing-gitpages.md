@@ -23,7 +23,7 @@ $$\frac{d\rho}{dt}  = k_1 \rho_{avg1} (1- k_2 \rho_{avg2} )$$
 
 
 There are two factors in this relation: The first factor 
-$$K_1\rho_{avg1}$$ 
+$$k_1\rho_{avg1}$$ 
 which supports the population growth and the second 
 $$(1- k_2 \rho_{avg2})$$ 
 which diminishes it.
