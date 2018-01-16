@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fairy circles
+title: Fairy circles of Namibia desert
 ---
 Beauty, simplicity and power of model thinking
 
@@ -11,7 +11,9 @@ I am a physicist, I like mathematical models. That time I made a simulation usin
 
 The result of the simulation was pretty close to the aerial images of the fairy circles. The self organizing structure appears in conditions like when the plants support each other in a resource limited land. Compare in the image the result of the simulation and an aerial image from Namibrand.
 
-https://gaalaan.com/wp-content/uploads/2017/03/Namibrand_simulation2.png
+![Namibrand simulation]({{ site.baseurl }}/images/Namibrand_simulation2.png)
+
+
 
 Figure: The comparison between the simulation and the aerial image of the fairy circles. The periodicity in the simulation can be because of the periodic boundary condition.
 
