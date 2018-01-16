@@ -20,9 +20,9 @@ Figure: The comparison between the simulation and the aerial image of the fairy 
 The model is expressed simply by the following formula:
 $$\frac{d\rho}{dt}  = k_1 \rho_{avg1} (1- k_2 \rho_{avg2} )$$
 
-(dρ)/(dt) = k1ρavg1(1 − k2ρavg2)
 
-There are two factors in this relation: The first factor K1ρavg1 which supports the population growth and the second (1 − k2ρavg2) which diminishes it.
+
+There are two factors in this relation: The first factor \(K_1\rho_{avg1}\) which supports the population growth and the second \((1- k_2 \rho_{avg2})\) which diminishes it.
 
 The realization of the first factor in nature can be in cases such as reproduction or protection and the realization of the second factor can be depletion of the resources by the population or increase of some common threat.
 
