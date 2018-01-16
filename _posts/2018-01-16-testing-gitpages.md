@@ -11,7 +11,7 @@ I am a physicist, I like mathematical models. That time I made a simulation usin
 
 The result of the simulation was pretty close to the aerial images of the fairy circles. The self organizing structure appears in conditions like when the plants support each other in a resource limited land. Compare in the image the result of the simulation and an aerial image from Namibrand.
 
-[Namibrand simulation]({{ site.baseurl }}/images/Namibrand_simulation2.png)
+![Namibrand simulation]({{ site.baseurl }}/images/Namibrand_simulation2.png)
 
 
 
