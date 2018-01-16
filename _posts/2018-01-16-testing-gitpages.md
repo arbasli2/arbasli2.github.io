@@ -4,10 +4,6 @@ title: Fairy circles of Namibia desert
 ---
 Beauty, simplicity and power of model thinking
 
-
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-
-
 Some time ago I saw an article on [BBC Earth](http://www.bbc.com/earth/story/20140916-mystery-fairy-circles-defy-explanation) about Fairy circles in Namibia desert.
 Like a lot of other people I thought of an explanation for it.
 
@@ -39,3 +35,9 @@ Note 1: The periodicity that we observe in the simulation is due to the limited 
 Note 2: We apparently are observing a pattern in the growth of plants. But it can be a totally different phenomena. we might be looking at growth phenomena of other natural existing creature in the matrix of the plants such as bacteria that where it populates it creates empty patches; but still this following the growth model as described above. I think it is not the case, since the field studies does not show existence of other living organisms.
 
 notice: I have moved post to here from my previouse blog. Posted on March 19, 2017
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+
