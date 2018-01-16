@@ -6,6 +6,13 @@ Beauty, simplicity and power of model thinking
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+</script>
+<script type="text/javascript" async
+  src="https://example.com/MathJax.js?config=TeX-AMS_CHTML">
+</script>
+
 Some time ago I saw an article on [BBC Earth](http://www.bbc.com/earth/story/20140916-mystery-fairy-circles-defy-explanation) about Fairy circles in Namibia desert.
 Like a lot of other people I thought of an explanation for it.
 
