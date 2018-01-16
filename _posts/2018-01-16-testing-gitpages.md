@@ -4,7 +4,7 @@ title: Fairy circles of Namibia desert
 ---
 Beauty, simplicity and power of model thinking
 
-Some time ago I saw an article on BBC Earth about Fairy circles in Namibia desert.
+Some time ago I saw an article on [BBC Earth](http://www.bbc.com/earth/story/20140916-mystery-fairy-circles-defy-explanation) about Fairy circles in Namibia desert.
 Like a lot of other people I thought of an explanation for it.
 
 I am a physicist, I like mathematical models. That time I made a simulation using a simple modified logistic growth model.
@@ -18,6 +18,8 @@ The result of the simulation was pretty close to the aerial images of the fairy 
 Figure: The comparison between the simulation and the aerial image of the fairy circles. The periodicity in the simulation can be because of the periodic boundary condition.
 
 The model is expressed simply by the following formula:
+$$\frac{d\rho}{dt}  = k_1 \rho_{avg1} (1- k_2 \rho_{avg2} )$$
+
 (dρ)/(dt) = k1ρavg1(1 − k2ρavg2)
 
 There are two factors in this relation: The first factor K1ρavg1 which supports the population growth and the second (1 − k2ρavg2) which diminishes it.
