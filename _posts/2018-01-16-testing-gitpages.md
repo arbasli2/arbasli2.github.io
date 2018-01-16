@@ -2,10 +2,6 @@
 layout: post
 title: Fairy circles
 ---
-
-Posted on March 19, 2017
-Fairy circles
-
 Beauty, simplicity and power of model thinking
 
 Some time ago I saw an article on BBC Earth about Fairy circles in Namibia desert.
@@ -33,3 +29,5 @@ Any initial condition given the parameters that are in the correct range, will l
 Note 1: The periodicity that we observe in the simulation is due to the limited size of the simulation. This is a known characteristic of the small size simulations. In small size simulation if we use periodic boundary condition we will have such artifacts.
 
 Note 2: We apparently are observing a pattern in the growth of plants. But it can be a totally different phenomena. we might be looking at growth phenomena of other natural existing creature in the matrix of the plants such as bacteria that where it populates it creates empty patches; but still this following the growth model as described above. I think it is not the case, since the field studies does not show existence of other living organisms.
+
+notice: I have moved post to here from my previouse blog. Posted on March 19, 2017
